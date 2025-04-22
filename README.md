@@ -4,7 +4,7 @@
 I'm a passionate DevOps and blockchain enthusiast currently diving deep into backend development with Go and smart contract development on Starknet. I enjoy automating deployments, optimizing cloud infrastructure, and building decentralized applications.
 
 ## 🔧 Technologies & Tools
-- **DevOps:** Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions)
+- **DevOps:** Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions and Jenkins)
 - **Cloud Platforms:** AWS, GCP
 - **Backend Development:** Golang, Python
 - **Blockchain:** Solidity, Starknet, Foundry, Hardhat
