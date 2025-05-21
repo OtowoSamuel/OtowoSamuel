@@ -7,12 +7,13 @@ I'm a passionate DevOps and blockchain enthusiast currently diving deep into bac
 - **DevOps:** Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions and Jenkins)
 - **Cloud Platforms:** AWS, GCP
 - **Backend Development:** Golang, Python
+- **Frontend Development:** Html, Css, Javascript, React, Nextjs
 - **Blockchain:** Solidity, Starknet, Foundry, Hardhat
-- **Databases:** PostgreSQL, Redis, MySQl,
+- **Databases:** PostgreSQL, Redis, MySQl, Mongodb
 - **Monitoring & Logging:** Prometheus, Grafana, Loki, cAdvisor
 
 ## 🌱 Currently Learning
-- Smart contract development with Cairo & Starknet Foundry
+- Smart contract development with Cairo, Rust & Starknet Foundry
 - Building full-stack dApps using Next.js, Wagmi, and RainbowKit
 - Scaling microservices with Kubernetes
 
