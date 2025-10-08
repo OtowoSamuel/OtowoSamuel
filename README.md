@@ -18,7 +18,7 @@ I'm a passionate DevOps and blockchain enthusiast currently diving deep into bac
 - Scaling microservices with Kubernetes
 
 ## 📫 Connect with Me
-- **X:** [@otowosamm](https://x.com/OtowoOps)
+- **X:** [@OtowoOps](https://x.com/OtowoOps)
 - **GitHub:** [github.com/otowo](https://github.com/OtowoSamuel)
 - **LinkedIn:** [Otowo](https://www.linkedin.com/in/samuel-otowo-6a2bba215/)
 
